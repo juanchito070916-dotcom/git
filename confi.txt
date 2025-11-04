@@ -1,0 +1,2 @@
+let nombre = "John Becerra";
+let correo = jfbeccera@gmail.com
